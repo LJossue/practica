@@ -1,0 +1,15 @@
+C:\Users\Sena\Desktop\Carro\PRACTICA\PRACTICA\bin\Debug\net6.0\PRACTICA.exe
+C:\Users\Sena\Desktop\Carro\PRACTICA\PRACTICA\bin\Debug\net6.0\PRACTICA.deps.json
+C:\Users\Sena\Desktop\Carro\PRACTICA\PRACTICA\bin\Debug\net6.0\PRACTICA.runtimeconfig.json
+C:\Users\Sena\Desktop\Carro\PRACTICA\PRACTICA\bin\Debug\net6.0\PRACTICA.dll
+C:\Users\Sena\Desktop\Carro\PRACTICA\PRACTICA\bin\Debug\net6.0\PRACTICA.pdb
+C:\Users\Sena\Desktop\Carro\PRACTICA\PRACTICA\obj\Debug\net6.0\PRACTICA.csproj.AssemblyReference.cache
+C:\Users\Sena\Desktop\Carro\PRACTICA\PRACTICA\obj\Debug\net6.0\PRACTICA.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sena\Desktop\Carro\PRACTICA\PRACTICA\obj\Debug\net6.0\PRACTICA.AssemblyInfoInputs.cache
+C:\Users\Sena\Desktop\Carro\PRACTICA\PRACTICA\obj\Debug\net6.0\PRACTICA.AssemblyInfo.cs
+C:\Users\Sena\Desktop\Carro\PRACTICA\PRACTICA\obj\Debug\net6.0\PRACTICA.csproj.CoreCompileInputs.cache
+C:\Users\Sena\Desktop\Carro\PRACTICA\PRACTICA\obj\Debug\net6.0\PRACTICA.dll
+C:\Users\Sena\Desktop\Carro\PRACTICA\PRACTICA\obj\Debug\net6.0\refint\PRACTICA.dll
+C:\Users\Sena\Desktop\Carro\PRACTICA\PRACTICA\obj\Debug\net6.0\PRACTICA.pdb
+C:\Users\Sena\Desktop\Carro\PRACTICA\PRACTICA\obj\Debug\net6.0\PRACTICA.genruntimeconfig.cache
+C:\Users\Sena\Desktop\Carro\PRACTICA\PRACTICA\obj\Debug\net6.0\ref\PRACTICA.dll
